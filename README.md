@@ -4,6 +4,6 @@
 3. **Device:** Leap motion
 
 #### Demostration
-![image](Save_img/01.png)
-![image](Save_img/02.png)
+![image](01.png)
+![image](02.png)
 
